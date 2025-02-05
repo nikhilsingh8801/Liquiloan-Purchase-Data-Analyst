@@ -1,4 +1,4 @@
-# Liquiloan Purchase Data Analyst
+#  Liquiloans Chocolates Purchase Data Analyst
 
 ## Project Name - Liquiloans Chocolates
 
